@@ -1,0 +1,26 @@
+{
+    "arduino.path": "C:\\Program Files (x86)\\Arduino",
+    // "files.associations": {
+    //     "*.tcc": "cpp",
+    //     "fstream": "cpp",
+    //     "array": "cpp",
+    //     "deque": "cpp",
+    //     "list": "cpp",
+    //     "string": "cpp",
+    //     "unordered_map": "cpp",
+    //     "unordered_set": "cpp",
+    //     "vector": "cpp",
+    //     "initializer_list": "cpp",
+    //     "regex": "cpp"
+    // },
+    "wrapSelection.patterns": {
+        "ifd": "#ifdef SOME\n${text}\n#endif",
+        "sd": "#ifdef SERIAL_DEBUG\n${text}\n#endif",
+        "SD": "#ifdef SERIAL_DEBUG\n${text}\n#endif",
+        "=>": "() => ${text}"
+    },
+    "files.associations": {
+        "functional": "cpp"
+    }
+    
+}

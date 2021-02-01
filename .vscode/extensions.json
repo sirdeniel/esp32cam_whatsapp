@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "wwm.better-align",
+        "konstantin.wrapselection",
+        "coenraads.bracket-pair-colorizer-2",
+        "akamud.vscode-theme-onedark",
+        "vsciot-vscode.vscode-arduino"
+    ]
+}

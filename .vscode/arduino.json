@@ -1,0 +1,8 @@
+{
+    "board": "esp32:esp32:esp32wrover",
+    "port": "COM3",
+    "output": "../ArduinoOutput",
+    "defaultBaudRate": 9600,
+    "sketch": "esp32cam_whatsapp.ino",
+    "configuration": "PartitionScheme=huge_app,FlashMode=qio,FlashFreq=40,UploadSpeed=115200,DebugLevel=none"
+}
