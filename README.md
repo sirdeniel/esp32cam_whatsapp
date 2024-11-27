@@ -6,6 +6,13 @@ An embedded device like ESP32 is capable to connect to web services
 thanks to WiFi. Although, there are many projects around IoT applications
 no one has ever (as far as I know) make communication via WhatsApp on its own.
 
+## Simple diagram
+![esp32-whtsapp-simple](https://i.ibb.co/X286hP5/jpeg-optimizer-whatsapp-esp32-simple.jpg)
+
+## Descriptive diagram
+![esp32-whatsapp](https://i.ibb.co/Th4hk40/jpeg-optimizer-whatsapp-esp32.jpg)
+
+## Video demo
 [![ESP32CAM WhatsApp Communication](http://img.youtube.com/vi/-EnRYvCKHzE/0.jpg)](http://www.youtube.com/watch?v=-EnRYvCKHzE)
 
 # ¿What does it do?
